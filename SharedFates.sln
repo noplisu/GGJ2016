@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedFates.CSharp", "SharedFates.CSharp.csproj", "{38D975DC-2D61-1308-3A06-F8D615820F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedFates.CSharp.Editor", "SharedFates.CSharp.Editor.csproj", "{D24C9CF8-CF5E-03CA-960B-CB610C853948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D975DC-2D61-1308-3A06-F8D615820F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D975DC-2D61-1308-3A06-F8D615820F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D975DC-2D61-1308-3A06-F8D615820F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D975DC-2D61-1308-3A06-F8D615820F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24C9CF8-CF5E-03CA-960B-CB610C853948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24C9CF8-CF5E-03CA-960B-CB610C853948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24C9CF8-CF5E-03CA-960B-CB610C853948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24C9CF8-CF5E-03CA-960B-CB610C853948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
